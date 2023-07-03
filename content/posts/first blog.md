@@ -1,0 +1,7 @@
+---
+title: "First blog"
+date: 2023-07-03T14:29:54+08:00
+draft: false
+---
+
+just a domain for my email

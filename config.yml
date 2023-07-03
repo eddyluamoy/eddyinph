@@ -1,0 +1,46 @@
+baseURL: ""
+languageCode: en-us
+title: eddy in PH
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: '🇵🇭 eddy in PH'
+    Content: ''
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: now
+      name: Now
+      url: /now/
+      weight: 30
+      
+
