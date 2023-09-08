@@ -1,11 +1,11 @@
 baseURL: ""
 languageCode: en-us
-title: eddy in PH
+title: 
 theme: PaperMod
 
 params:
   homeInfoParams:
-    Title: '🇵🇭 eddy in PH'
+    Title: 'just a domain for my email'
     Content: ''
 
 
@@ -18,29 +18,10 @@ outputs:
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: 1
+      name: 
+      url: /1/
       weight: 20
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 20
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 10
-    - identifier: now
-      name: Now
-      url: /now/
-      weight: 30
+
       
 
